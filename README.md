@@ -146,5 +146,4 @@ If you encounter any issues or have questions:
 
 ---
 
-
 **Made with ❤️ and AI assistance for the Scrum community**
